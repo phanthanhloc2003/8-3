@@ -181,15 +181,13 @@ const CustomHeart = ({ color }) => (
 );
 
 const messages = [
-  "Gửi đến những người bạn tuyệt vời nhất trong lớp, các bạn mang đến niềm vui và năng lượng tích cực cho mọi người xung quanh.",
-  "Nụ cười của các bạn làm bừng sáng không gian lớp học, và sự nhiệt huyết của các bạn tạo nên một tập thể tuyệt vời.",
-  "Vào ngày đặc biệt này, mình muốn gửi lời cảm ơn vì sự đồng hành và những khoảnh khắc đáng nhớ bên nhau.",
-  "Các bạn không chỉ là bạn cùng lớp, mà còn là những người bạn đồng hành quý giá, luôn hỗ trợ và sẻ chia.",
-  "Mình trân trọng từng kỷ niệm chúng ta đã có, và mong rằng sẽ có thêm nhiều khoảnh khắc đáng nhớ hơn nữa.",
-  "Chúc mừng Ngày Phụ nữ! Chúc các bạn luôn vui vẻ, hạnh phúc và đạt được mọi điều tốt đẹp trong cuộc sống."
+  "Gửi đến những người bạn tuyệt vời nhất trong lớp, các bạn mang đến niềm vui và nguồn năng lượng tích cực cho tất cả mọi người.",
+  "Nụ cười của các bạn thắp sáng không gian lớp học, và sự nhiệt huyết của các bạn tạo nên một tập thể gắn kết và đầy cảm hứng.",
+  "Nhân ngày đặc biệt này, mình muốn gửi lời cảm ơn chân thành vì sự đồng hành và những khoảnh khắc đáng nhớ bên nhau.",
+  "Các bạn không chỉ là bạn cùng lớp, mà còn là những người bạn đồng hành quý giá, luôn sẵn sàng sẻ chia và hỗ trợ.",
+  "Mình trân trọng từng kỷ niệm mà chúng ta đã có và mong rằng sẽ có thêm nhiều khoảnh khắc ý nghĩa hơn nữa.",
+  "Chúc mừng Ngày Phụ nữ! Chúc các bạn luôn rạng rỡ, hạnh phúc và đạt được những điều tuyệt vời nhất trong cuộc sống."
 ];
-
-// Then update the MessageCard component to accept and pass the prop:
 
 const FullscreenOverlay = styled(motion.div)`
   position: fixed;
